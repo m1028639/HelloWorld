@@ -5,7 +5,7 @@
 	<groupId>mindtree</groupId>
 	<artifactId>HelloWorldMaven</artifactId>
 	<packaging>war</packaging>
-	<version>1.5</version>
+	<version>1.6</version>
 	<name>${project.artifactId}</name>
 	<properties>
 		<org.springframework.version>3.2.1.RELEASE</org.springframework.version>
@@ -283,7 +283,7 @@
 								<image>
 									<id>${project.artifactId}</id>
 									<tags>
-										<tag>preetick/presenatation:latest</tag>
+										<tag>preetick/mthello:latest</tag>
 									</tags>
 									<push>true</push>
 								</image>
